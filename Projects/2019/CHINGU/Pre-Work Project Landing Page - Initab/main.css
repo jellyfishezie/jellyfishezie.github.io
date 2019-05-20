@@ -1,5 +1,10 @@
 .primary-nav {
-   
+    list-style: none;
+    background-color: rgb(167, 157, 157);
+}
+
+.reddit {
+    background-color: rgb(32, 32, 82);
 }
 
 #item1 {
@@ -22,4 +27,14 @@
 }
 #item7 {
     color: darkkhaki;
+}
+#item8 {
+    color: yellow;
+}
+#item9 {
+    color: darkorchid;
+}
+
+h3 {
+    color: skyblue;
 }
