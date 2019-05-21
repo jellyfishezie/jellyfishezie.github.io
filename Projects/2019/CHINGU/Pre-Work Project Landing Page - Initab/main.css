@@ -46,6 +46,22 @@ Item For Reddit Section
 #item9 {
     color: darkorchid;
 }
+#posted {
+    color: skyblue;
+}
+#user {
+    color: yellow;
+}
+#score {
+    color: darkslategray;
+}
+#link {
+    color: palevioletred;
+}
+.whiteParagraph {
+    color: whitesmoke;
+}
+
 
 h3 {
     color: skyblue;
